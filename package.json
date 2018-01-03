@@ -39,7 +39,5 @@
     "nyc": "^10.0.0",
     "run-sequence": "^1.1.5",
     "supertest": "^2.0.0"
-  },
-  "devDependencies": {
   }
 }

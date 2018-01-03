@@ -2,7 +2,6 @@ const path = require('path');
 const rootPath = path.normalize(__dirname + '/..');
 const env = process.env.NODE_ENV || 'development';
 
-
 const config = {
   development: {
     root: rootPath,
@@ -29,10 +28,7 @@ const config = {
     },
     port: process.env.PORT || 3000,
     db: process.env.MONGODB_URI
-    // user: 'sanchesrm'
-    // db: 'heroku_xb7fdxr4'
   }
 };
-console.log(config[env]);
 
 module.exports = config[env];
