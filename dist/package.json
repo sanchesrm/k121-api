@@ -1,6 +1,9 @@
 {
-  "name": "K121 backend",
   "version": "1.0.0",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp serve"
+  },
   "dependencies": {
     "body-parser": "^1.13.3",
     "compression": "^1.5.2",
