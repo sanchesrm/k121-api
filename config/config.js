@@ -24,10 +24,11 @@ const config = {
   production: {
     root: rootPath,
     app: {
-      name: 'backend'
+      name: 'k121-api-sanchesrm'
     },
     port: process.env.PORT || 3000,
-    db: 'mongodb://localhost/k121'
+    user: 'sanchesrm'
+    db: 'heroku_xb7fdxr4'
   }
 };
 
