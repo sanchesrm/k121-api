@@ -2,6 +2,8 @@ const path = require('path');
 const rootPath = path.normalize(__dirname + '/..');
 const env = process.env.NODE_ENV || 'development';
 
+console.log(process.env.NODE_ENV);
+
 const config = {
   development: {
     root: rootPath,
