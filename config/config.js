@@ -28,7 +28,7 @@ const config = {
       name: 'k121-api-sanchesrm'
     },
     // port: process.env.PORT || 3000,
-    db: process.env.MONGOLAB_URI
+    db: process.env.MONGODB_URI
     // user: 'sanchesrm'
     // db: 'heroku_xb7fdxr4'
   }

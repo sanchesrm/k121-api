@@ -28,12 +28,13 @@ var config = {
     app: {
       name: 'k121-api-sanchesrm'
     },
-    port: process.env.PORT || 3000,
-    db: process.env.MONGOLAB_URI
+    // port: process.env.PORT || 3000,
+    db: process.env.MONGODB_URI
     // user: 'sanchesrm'
     // db: 'heroku_xb7fdxr4'
   }
 };
+console.log(config[env]);
 
 module.exports = config[env];
 //# sourceMappingURL=config.js.map
