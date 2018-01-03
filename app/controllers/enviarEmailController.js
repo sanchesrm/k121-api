@@ -22,7 +22,7 @@ function sendEmail (req, res, next) {
     
                 smtpTransport.sendMail({
                     from: 'frontEndRemoto@k121-kenoby.com',
-                    to: participantes[participante.amigo].email,
+                    to: participante.email,
                     subject: 'K121 Amigo - Secreto Kenoby',
                     text: `
                         Olá ${participante.nome},
