@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/routes/enviarEmail.js"],"names":["router","Router","route","get","sendEmail"],"mappings":";;;;;;AAAA;;;;AACA;;;;;;AAEA,IAAMA,SAAS,kBAAQC,MAAR,EAAf;;AAEAD,OAAOE,KAAP,CAAa,GAAb,EACGC,GADH,CACO,gCAAsBC,SAD7B;;kBAGeJ,M","file":"enviarEmail.js","sourceRoot":"../../../../.."}

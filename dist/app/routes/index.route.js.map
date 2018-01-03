@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/routes/index.route.js"],"names":["router","Router","use"],"mappings":";;;;;;AAAA;;;;AACA;;;;AACA;;;;AACA;;;;;;AAEA,IAAMA,SAAS,kBAAQC,MAAR,EAAf,C,CAAiC;;AAEjCD,OAAOE,GAAP,CAAW,cAAX;AACAF,OAAOE,GAAP,CAAW,eAAX;AACAF,OAAOE,GAAP,CAAW,kBAAX;;kBAEeF,M","file":"index.route.js","sourceRoot":"../../../../.."}

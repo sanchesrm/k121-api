@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/routes/sorteio.js"],"names":["router","Router","route","get","sortear"],"mappings":";;;;;;AAAA;;;;AACA;;;;;;AAEA,IAAMA,SAAS,kBAAQC,MAAR,EAAf;;AAEAD,OAAOE,KAAP,CAAa,GAAb,EACGC,GADH,CACO,oCAA0BC,OADjC;;kBAGeJ,M","file":"sorteio.js","sourceRoot":"../../../../.."}
